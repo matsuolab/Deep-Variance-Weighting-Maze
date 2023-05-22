@@ -12,7 +12,7 @@ This repository is the official implementation of Deep Variance Weighting for th
 
 ## Requirements
 
-* Clone and install the repository
+Install dependencies by:
 
 ```bash
 # make sure you are in Variance-Weighted-MDVI/Deep-Variance-Weighting-Maze

@@ -2,7 +2,7 @@
 
 This repository is the official implementation of Deep Variance Weighting for the Maze experiments in [Regularization and Variance-Weighted Regression Achieves Minimax Optimality in Linear MDPs: Theory and Practice](TODO).
 
-* We modified [ShinRL](https://github.com/omron-sinicx/ShinRL/tree/main) repository (commit[09f4ae2](https://github.com/omron-sinicx/ShinRL/commit/09f4ae274a33d1fc1d9d542f816aef40014af6b5)).
+* We modified [ShinRL](https://github.com/omron-sinicx/ShinRL/tree/main) repository (commit [09f4ae2](https://github.com/omron-sinicx/ShinRL/commit/09f4ae274a33d1fc1d9d542f816aef40014af6b5)).
 * You can see the implementation of M-DQN with DVW in [shinrl/solvers/discrete_vi/solver.py](shinrl/solvers/discrete_vi/solver.py)
 
 
@@ -15,8 +15,7 @@ This repository is the official implementation of Deep Variance Weighting for th
 * Clone and install the repository
 
 ```bash
-# Install CleanRL
-git clone https://github.com/matsuolab/Deep-Variance-Weighting-Maze.git && cd Deep-Variance-Weighting-Maze
+# make sure you are in Variance-Weighted-MDVI/Deep-Variance-Weighting-Maze
 poetry install
 ```
 
